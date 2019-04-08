@@ -1,0 +1,12 @@
+/Users/hectorsatizabal/Projects/Firebase/Firebase/bin/Debug/netstandard2.0/Firebase.deps.json
+/Users/hectorsatizabal/Projects/Firebase/Firebase/bin/Debug/netstandard2.0/Firebase.dll
+/Users/hectorsatizabal/Projects/Firebase/Firebase/bin/Debug/netstandard2.0/Firebase.pdb
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.csprojAssemblyReference.cache
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.csproj.CoreCompileInputs.cache
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.AssemblyInfoInputs.cache
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.AssemblyInfo.cs
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.dll
+/Users/hectorsatizabal/Projects/Firebase/Firebase/obj/Debug/netstandard2.0/Firebase.pdb

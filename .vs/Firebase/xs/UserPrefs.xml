@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4547C9A5-CB6A-4A87-82C2-FF60886166D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Firebase/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Firebase/MainPage.xaml.cs" Line="70" Column="67" />
+      <File FileName="Firebase/LoginFirebase.cs" Line="7" Column="32" />
+      <File FileName="Firebase/RsposneFirebase.cs" Line="4" Column="33" />
+      <File FileName="Firebase/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Firebase" expanded="True">
+            <Node name="Firebase" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Firebase.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Firebase.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
